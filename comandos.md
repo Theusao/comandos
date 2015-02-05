@@ -13,6 +13,8 @@ Coordenador
 |!afklimit | X | seta o tempo maximo de AFK |
 |!clearchat | |limpa todo o chat |
 |!cycle | | ativa/desativa o ciclo de dj |
+|!sson | | ativa o simsimi chat |
+|!ssooff | | desativa o simsimi chat |
 |!refresh | | recarrega o bot |
 |!usercmdcd | X | coloca um delay para comando de usuarios cinzas |
 |!usercommands | | ativa/desativa comandos de usuarios cinzas |
