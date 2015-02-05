@@ -1,4 +1,4 @@
-Comandos do HitBot:
+Comandos do EBbot:
 =========
 
 X especifique um numero
@@ -50,7 +50,6 @@ Segurança
 |!blacklist / !bl | blacklistname | adiciona as músicas para a lista negra
 |!cycleguard | | ativa o cycleguard |
 |!dclookup / !dc | (@usuario) | devolve o lugar do usuario caso ele tenha caido |
-|!english | @usuario | pede para os usuarios falarem sua lingua |
 |!eta | (@usuario) | mostrará quanto tempo demorará para o usuario tocar |
 |!filter | | ativa/desativa o filtro de chat |
 |!jointime | @usuario | mostra quanto tempo o usuario esteve na sala |
