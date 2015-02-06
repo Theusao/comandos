@@ -33,7 +33,7 @@ Segurança+
 |!maxlength | X | coloca um limite de duração de videos |
 |!move | @usuario  | move usuarios na lista de espera |
 |!remove | @usuario | remove usuarios da fila de espera |
-|!roulette | | começar a roleta |
+|!roleta | | começar a roleta |
 |!songstats | | ativa as estatiticas da música |
 |!unlock | | destrava a lista de espera |
 |!welcome | | dá bem vindo aos usuarios quando entram |
