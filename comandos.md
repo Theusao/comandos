@@ -90,6 +90,7 @@ Usuario
 |!commands | | mostra o link dos comandos |
 |!cookie| @usuario | dá um cookie para o usuario |
 |!sacanagem | @usuario | sacaneia um usuario |
+|!amorzinho | @usuario | manda uma frase de amor para um usuario |
 |!dclookup / !dc | | usa o dc em si mesmo |
 |!emoji | | coloca o link dos emojis |
 |!eta | | mostra quanto tempo demora para você rodar seu video |
