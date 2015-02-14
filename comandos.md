@@ -103,6 +103,6 @@ Usuario
 |!ping | | pong! |
 |!rules | | link das regras |
 |!theme | | link do tema da sala |
-|!website | | link do site da sala |
+|!site | | link do site da sala |
 |!youtube | | link do canal do youtube da sala |
 |!staff | | link para inscrição para entrar na staff |
