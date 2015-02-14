@@ -101,7 +101,7 @@ Usuario
 |!link | | quando os usuarios são dj's, poderão botar o link do video |
 |!op | | link das mais tocadas  |
 |!ping | | pong! |
-|!rules | | link das regras |
+|!regras | | link das regras |
 |!theme | | link do tema da sala |
 |!site | | link do site da sala |
 |!youtube | | link do canal do youtube da sala |
