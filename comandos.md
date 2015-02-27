@@ -14,7 +14,9 @@ Coordenador
 |!clearchat | |limpa todo o chat |
 |!cycle | | ativa/desativa o ciclo de dj |
 |!sson | | ativa o simsimi chat |
-|!ssooff | | desativa o simsimi chat |
+|!ssoff | | desativa o simsimi chat |
+|!edon | | ativa o EDbot chat |
+|!edoff | | desativa o EDbot chat |
 |!refresh | | recarrega o bot |
 |!usercmdcd | X | coloca um delay para comando de usuarios cinzas |
 |!usercommands | | ativa/desativa comandos de usuarios cinzas |
