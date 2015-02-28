@@ -95,6 +95,7 @@ Usuario
 |!amorzinho | @usuario | manda uma frase de amor para um usuario |
 |!dclookup / !dc | | usa o dc em si mesmo |
 |!emoji | | coloca o link dos emojis |
+|!origememoji | | coloca o link dos emojis customizados do OrigemWoot |
 |!eta | | mostra quanto tempo demora para você rodar seu video |
 |!fb | | coloca o link da página da sala |
 |!help | | coloca uma imagem para ajudar novos usuarios |
