@@ -60,6 +60,7 @@ Segurança
 |!lockguard | | ativa/desativa o lockguard |
 |!lockskip | (motivo) | pula o dj, e devolve seu lugar (a posição pode ser definida com !lockskippos) |
 |!lockskippos | X | define a posição que o dj será movido com o lockskip |
+|!roulettepos | X | define a posição que a roleta moverá o ganhador |
 |!motd | (X)/(mensagem) | quando não tem argumento definido, mandará a mensagem do dia, quando X é especificado, o MotD irá dar a todas as  X músicas mensagens |
 |!mute | @usuario (X) | mutar usuarios por X minutos, se X é expecificado. Se não ficrá com tempo indefinido (permanente) |
 |!reload | | recarrega o bot |
