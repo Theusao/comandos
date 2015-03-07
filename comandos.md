@@ -56,7 +56,7 @@ Segurança
 |!filter | | ativa/desativa o filtro de chat |
 |!jointime | @usuario | mostra quanto tempo o usuario esteve na sala |
 |!kick | (@usuario) | kicka usuarios da sala, o original é 0.25 minutos (15 segundos) |
-|!kill | ||desliga o bot |
+|!kill | | desliga o bot |
 |!lockguard | | ativa/desativa o lockguard |
 |!lockskip | (motivo) | pula o dj, e devolve seu lugar (a posição pode ser definida com !lockskippos) |
 |!lockskippos | X | define a posição que o dj será movido com o lockskip |
