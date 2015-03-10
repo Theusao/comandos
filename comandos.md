@@ -100,6 +100,7 @@ Usuario
 |!cookie| @usuario | dá um cookie para o usuario |
 |!sacanagem | @usuario | sacaneia um usuario |
 |!amorzinho | @usuario | manda uma frase de amor para um usuario |
+|!castigar | @usuario | castiga um usuário |
 |!dclookup / !dc | | usa o dc em si mesmo |
 |!emoji | | coloca o link dos emojis |
 |!origememoji | | coloca o link dos emojis customizados do OrigemWoot |
