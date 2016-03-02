@@ -73,7 +73,7 @@ Segurança
 |!restricteta | | ativa/desativa a restrição do ETA, usuarios cinzas só poderão usar o eta de 1 em 1 hora |
 |!sessionstats | | mostra o estatus da sessão atual |
 |!skip | | pula a música atual |
-|!status | | mostra o estatus do bot, e alguns comandos |
+|!status | | mostra o status do bot, e alguns comandos |
 |!timeguard | | ativa/desativa o timeguard |
 |!togglemotd | | ativa/desativa o motd |
 |!unban | @usuario | desbane um usuario |
